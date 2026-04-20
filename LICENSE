@@ -1,21 +1,61 @@
-MIT License
+PROPRIETARY LICENSE — ALL RIGHTS RESERVED
 
-Copyright (c) 2026 Britta Davis
+Copyright © 2025–2026 ohgollybritta. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Project: Operation US One
+Author: ohgollybritta (https://github.com/ohgollybritta)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This codebase, including all source files, documentation, design,
+structure, logic, and any associated materials (collectively, "the
+Work"), is the original creation and intellectual property of the
+author named above.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+NO LICENSE IS GRANTED. Publication of the Work on a public
+repository does not constitute a grant of any license, express or
+implied, under any copyright, trademark, patent, trade secret, or
+other intellectual property right of the author.
+
+The following are expressly prohibited without prior written
+permission from the author:
+
+  1. Copying, reproducing, or redistributing the Work, in whole or
+     in part, in any form or medium.
+  2. Modifying, adapting, translating, porting, or creating
+     derivative works based on the Work, in whole or in part.
+  3. Incorporating the Work, in whole or in part, into any other
+     software, product, dataset, publication, or project.
+  4. Sublicensing, selling, renting, leasing, or otherwise
+     transferring rights in the Work to any third party.
+  5. Removing, altering, or obscuring any copyright notice,
+     attribution, author credit, or license text contained in the
+     Work.
+  6. Representing the Work, in whole or in part, as the creation,
+     design, or intellectual property of any person or entity other
+     than the author.
+  7. Using the Work, in whole or in part, in any commercial product,
+     service, or offering.
+
+Viewing the Work on the public repository where it is hosted, for
+the sole purpose of reading the source code, is permitted.
+
+Any use of the Work beyond what is expressly permitted above
+requires prior written permission from the author. Requests for
+permission must be directed to the author via the contact channels
+listed on the repository.
+
+Where permission is granted, attribution to the author in the form
+"Operation US One — © ohgollybritta" must appear prominently in any
+resulting work, documentation, or public reference.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OR MISUSE
+OF THE WORK.
+
+Unauthorized use of the Work may result in civil liability,
+statutory damages, and injunctive relief under applicable copyright
+and intellectual property law, including the U.S. Copyright Act,
+17 U.S.C. § 101 et seq., and the Digital Millennium Copyright Act,
+17 U.S.C. § 1201 et seq.
